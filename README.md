@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+I'm Nadine, a passionate software engineer with a love for building amazing software and solving complex problems. 
 
 
 <!--
 **Nadine-Mousa/Nadine-Mousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm Nadine, a passionate software engineer with a love for building amazing software and solving complex problems. 
+
 
 Here are some ideas to get you started:
 
