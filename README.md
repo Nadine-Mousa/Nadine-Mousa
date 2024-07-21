@@ -2,6 +2,7 @@
 
 I'm Nadine, a passionate software engineer with a love for building amazing software and solving complex problems. 
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **Nadine-Mousa/Nadine-Mousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
